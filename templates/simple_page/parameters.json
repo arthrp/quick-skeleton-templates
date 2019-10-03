@@ -1,0 +1,12 @@
+[
+	{
+	"name" : "title",
+	"value": "Very interesting title",
+	"desc": "Input title"
+	},
+	{
+		"name": "greeting",
+		"value": "",
+		"desc": "Input your greeting"
+	}
+]
